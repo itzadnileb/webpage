@@ -1,0 +1,16 @@
+.nav{
+  display: flex;
+  justify-content: right;
+  list-style: none;
+  margin-right: 15%;
+}
+img{
+  width: 25%;
+}
+a{
+  margin: 40px;
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+div {border-style: dotted;}
